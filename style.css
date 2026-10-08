@@ -101,7 +101,7 @@ transform: translateY(-2px);
 
 .sidebar-img {
   width: 100%;
-  max-width: 760px;
+  max-width: 300px;
   aspect-ratio: 3/4;
   object-fit: cover;
   display: block;
