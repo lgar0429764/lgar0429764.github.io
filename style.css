@@ -44,7 +44,7 @@ h2 {
   font-weight: 900;
   letter-spacing: -0.04em;
   text-transform: uppercase;
-  color: #4e1c9d; /* bright accent */
+  color: #671c9d; /* bright accent */
 }
 
 .content > p {
@@ -104,7 +104,7 @@ h2 {
 .sidebar-img {
   width: 100%;
   max-width: 300px;
-  aspect-ratio: 1/1;
+  aspect-ratio: 3/4;
   object-fit: cover;
   display: block;
   border-radius: 24px;
